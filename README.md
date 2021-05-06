@@ -1,0 +1,2 @@
+# NLP-
+Task1: Performed Sentiment analysis using DistilBERT on Yelp reviews - Full and applied the EDA augmentation. Task2: Given any two blog posts, find similarity among the posts based on examining two text entities, images etc. and determining whether they have the same meaning. In order to obtain high accuracy on this task, thorough syntactic and semantic analysis of the two text entities is required
